@@ -1,0 +1,8 @@
+AI Usage Journal
+Amar Hassan
+abh@umd.edu
+Section 0201
+
+Week 1 (Sept 1–14, 2025)
+
+This week I used AI to help me understand how to set up Python and Jupyter on my Mac. It explained why .ipynb files don’t run like .py files and showed me how to install Jupyter. I also asked about VS Code extensions for working with notebooks. These chats helped me get my environment ready for class.
