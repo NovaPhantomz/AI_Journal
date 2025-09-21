@@ -6,3 +6,6 @@ Section 0201
 Week 1 (Sept 1–14, 2025)
 
 This week I used AI to help me understand how to set up Python and Jupyter on my Mac. It explained why .ipynb files don’t run like .py files and showed me how to install Jupyter. I also asked about VS Code extensions for working with notebooks. These chats helped me get my environment ready for class.
+
+Week 2 (Sept 15–21, 2025)
+This week I used AI to go over the Library Management project exercises for INST326. It walked me through how to use lists, conditionals, and loops without functions, and gave me full worked out solutions so I could check my work. I also asked about fixing an “authors not defined” error and learned why I needed to re declare the starter data. These chats helped me practice the basics and feel more confident before moving on to Week 3 topics.
