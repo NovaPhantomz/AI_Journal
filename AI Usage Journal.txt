@@ -9,3 +9,7 @@ This week I used AI to help me understand how to set up Python and Jupyter on my
 
 Week 2 (Sept 15–21, 2025)
 This week I used AI to go over the Library Management project exercises for INST326. It walked me through how to use lists, conditionals, and loops without functions, and gave me full worked out solutions so I could check my work. I also asked about fixing an “authors not defined” error and learned why I needed to re declare the starter data. These chats helped me practice the basics and feel more confident before moving on to Week 3 topics.
+
+Week 3 (Sept 22–28, 2025) 
+
+This week I used AI while working on my INST326 Week 3 function exercises. I mainly relied on it to help with debugging and formatting issues when my code wasn’t running the way I expected. It pointed out errors in my logic and showed me clearer ways to structure my functions so they were easier to test and read.  
