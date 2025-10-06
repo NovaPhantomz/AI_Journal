@@ -13,3 +13,8 @@ This week I used AI to go over the Library Management project exercises for INST
 Week 3 (Sept 22–28, 2025) 
 
 This week I used AI while working on my INST326 Week 3 function exercises. I mainly relied on it to help with debugging and formatting issues when my code wasn’t running the way I expected. It pointed out errors in my logic and showed me clearer ways to structure my functions so they were easier to test and read.  
+
+Week 4 (Sept 29–Oct 5, 2025)
+
+This week’s assignment focused on classes and objects for the Library Management Project. I used AI to better understand how __init__ works and how to design methods that modify instance attributes. It helped me write short, clean class definitions and made sure I avoided using features like inheritance or decorators that we haven’t learned yet. I also used it to double check my syntax for instance methods and to verify that my class tests ran correctly in Jupyter. 
+
