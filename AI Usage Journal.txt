@@ -18,3 +18,5 @@ Week 4 (Sept 29–Oct 5, 2025)
 
 This week’s assignment focused on classes and objects for the Library Management Project. I used AI to better understand how __init__ works and how to design methods that modify instance attributes. It helped me write short, clean class definitions and made sure I avoided using features like inheritance or decorators that we haven’t learned yet. I also used it to double check my syntax for instance methods and to verify that my class tests ran correctly in Jupyter. 
 
+Week 5 (Oct 6–12, 2025)
+This week’s assignment focused on encapsulation and data hiding in the Library Management Project. I used AI to help me write classes with private and protected attributes, along with getters, setters, and simple validation. It helped me check that I was following the Week 5 scope and not using features like inheritance or advanced error handling. I also used AI to review my code structure and make sure my properties worked correctly for each exercise in the notebook.
