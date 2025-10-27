@@ -23,3 +23,7 @@ This week’s assignment focused on encapsulation and data hiding in the Library
 
 Week 4 (Oct 6–12, 2025)
 This week I used ChatGPT to help me build and test my Pet Care Function Library for INST326 Project 01. It helped me write clean Python functions, structure my GitHub repository, and understand how to use Git commands like add, commit, and push. I learned how to organize my files using folders like src, docs, and examples, and how to run my code in GitHub Codespaces. The AI was really helpful for writing docstrings and debugging small issues, but I still tested and verified everything myself to make sure I understood how it all worked.
+
+Week 5 (Oct 6–12, 2025)
+This week I worked on encapsulation and data hiding. AI helped me write classes with private attributes and simple getters and setters. It reminded me to keep my solutions within the Week 5 scope (no advanced error handling). It also helped me verify that my class behavior was correct by running tests.
+
