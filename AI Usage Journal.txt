@@ -27,3 +27,10 @@ This week I used ChatGPT to help me build and test my Pet Care Function Library 
 Week 5 (Oct 6–12, 2025)
 This week I worked on encapsulation and data hiding. AI helped me write classes with private attributes and simple getters and setters. It reminded me to keep my solutions within the Week 5 scope (no advanced error handling). It also helped me verify that my class behavior was correct by running tests.
 
+Week 6 (Oct 13–19, 2025)
+This week I built my Pet Care Function Library for Project 01. I used AI to help me design clear function names, write docstrings, and format output. It helped me understand how to organize my project folder with directories like src, docs, and examples. It also guided me through basic Git commands, like add, commit, and push, so I could keep my code versioned properly.
+
+Week 7 (Oct 20–26, 2025)
+This week focused on error handling and simple testing. AI helped me understand try, except, else, and finally, along with raising my own exceptions. I used it to practice writing unit tests with unittest and to make sure I was only using features we covered so far. It helped me see how testing and error handling could catch mistakes before they break the program.
+
+
