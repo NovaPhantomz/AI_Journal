@@ -33,4 +33,7 @@ This week I built my Pet Care Function Library for Project 01. I used AI to help
 Week 7 (Oct 20–26, 2025)
 This week focused on error handling and simple testing. AI helped me understand try, except, else, and finally, along with raising my own exceptions. I used it to practice writing unit tests with unittest and to make sure I was only using features we covered so far. It helped me see how testing and error handling could catch mistakes before they break the program.
 
+Week 8 (Oct 27–Nov 2, 2025)
+This week we worked on inheritance and polymorphism in the Library Management project. I used AI to help me understand how subclassing works and how to override methods using super(). It helped me see the difference between reuse through inheritance versus reuse through composition. I still wrote and tested the subclass methods myself, but the explanations helped me understand why inheritance made sense in this part of the project.
+
 
