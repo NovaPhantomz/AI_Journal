@@ -36,4 +36,6 @@ This week focused on error handling and simple testing. AI helped me understand 
 Week 8 (Oct 27–Nov 2, 2025)
 This week we worked on inheritance and polymorphism in the Library Management project. I used AI to help me understand how subclassing works and how to override methods using super(). It helped me see the difference between reuse through inheritance versus reuse through composition. I still wrote and tested the subclass methods myself, but the explanations helped me understand why inheritance made sense in this part of the project.
 
+Week 9 (Nov 3-9, 2025)
+This week we learned about abstract classes and interfaces. I used AI to help me understand how abstract methods and properties work, and why Python gives a TypeError if you forget to implement one. It also helped me figure out virtual subclasses and the difference between ABCs and Protocols. I mainly used it to double check my code and fix small mistakes, but I still wrote and tested everything myself.
 
