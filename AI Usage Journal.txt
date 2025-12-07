@@ -41,3 +41,8 @@ This week we learned about abstract classes and interfaces. I used AI to help me
 
 Week 10 (Nov 10–16, 2025)
 This week I worked on Project 03, which focused on inheritance, polymorphism, and composition. I used AI to help me design an abstract Pet class and create subclasses like Dog, Cat, and Bird that each override behavior in different ways. It also helped me understand when to use composition, like how an Owner has pets and a Tracker manages owners. I got a lot of debugging help when my imports weren’t working in Codespaces and when my schedule logic caused failing tests. AI also guided me through writing unit tests for inheritance, polymorphism, schedule behavior, and composition. Even though the AI helped me solve issues faster, I still ran and verified all the tests myself to make sure the code worked the way I intended.
+
+Week 11 (Nov 17–23, 2025)
+This week I used AI to help me with some of the early refactoring work for Project 04 in INST326. I asked it to review parts of my Pet Care Tracker code where I was repeating the same logic across multiple methods, and it showed me how to rewrite those sections using cleaner class methods without going outside the scope of what we learned. I also used it to help debug an issue where two of my files were importing each other and causing a circular import error in Codespaces. AI explained why that happens and suggested reorganizing one of the classes into a shared module, which fixed the problem. It also helped me write clearer docstrings and come up with a few test cases to check edge behaviors, like when a pet has no tasks logged. Overall, AI helped me understand my design decisions better and made the refactoring process smoother.
+
+
