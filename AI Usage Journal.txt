@@ -4,7 +4,7 @@ abh@umd.edu
 Section 0201
 
 Week 1 (Sept 1–14, 2025)
-
+x
 This week I used AI to help me understand how to set up Python and Jupyter on my Mac. It explained why .ipynb files don’t run like .py files and showed me how to install Jupyter. I also asked about VS Code extensions for working with notebooks. These chats helped me get my environment ready for class.
 
 Week 2 (Sept 15–21, 2025)
@@ -45,4 +45,8 @@ This week I worked on Project 03, which focused on inheritance, polymorphism, an
 Week 11 (Nov 17–23, 2025)
 This week I used AI to help me with some of the early refactoring work for Project 04 in INST326. I asked it to review parts of my Pet Care Tracker code where I was repeating the same logic across multiple methods, and it showed me how to rewrite those sections using cleaner class methods without going outside the scope of what we learned. I also used it to help debug an issue where two of my files were importing each other and causing a circular import error in Codespaces. AI explained why that happens and suggested reorganizing one of the classes into a shared module, which fixed the problem. It also helped me write clearer docstrings and come up with a few test cases to check edge behaviors, like when a pet has no tasks logged. Overall, AI helped me understand my design decisions better and made the refactoring process smoother.
 
+Week 12 (Nov 24–30, 2025)
+This week I used AI while continuing work on Project 04 for INST326, focusing on integration and testing. I used it to help me think through how different parts of my Pet Care Tracker system interacted with each other, especially owners, pets, and care tasks. AI helped me identify missing edge cases and suggest realistic test scenarios, such as checking behavior when no pets exist for an owner or when tasks are overdue. I also used it to help write and organize my testing documentation so that it clearly explained what was being tested and why. This made my testing more structured and easier to follow.
 
+Week 13 (Dec 1–14, 2025)
+This week I used AI to help with several parts of finalizing and submitting Project 04. I used it to review my full script and confirm that it met the project requirements and stayed within the scope of the course. It helped me double check that I was demonstrating object oriented concepts such as inheritance, polymorphism, abstraction, and composition correctly throughout the system. I also used AI to assist with writing my final documentation files, including the project overview and testing documentation, and to verify that my GitHub repository was organized properly before submission. In addition, AI helped troubleshoot last minute issues in Codespaces, such as import errors and failing tests. Overall, it helped streamline the final submission process while still requiring me to understand and verify all of my work.
